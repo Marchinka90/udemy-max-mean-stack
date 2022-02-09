@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_DB": "mongodb://localhost:27017/mean-stack",
+        "JWT_KEY": "secret_this_should_be_longer"
+    }
+}
